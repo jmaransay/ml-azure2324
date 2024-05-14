@@ -3,7 +3,7 @@
 
 name: deployment_env
 dependencies:
-  - python=3.8.12
+  - python=3.10
   - pip:
     - azureml-defaults==1.37.0
     - azure-ml-api-sdk==0.1.0a11
